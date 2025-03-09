@@ -6509,6 +6509,13 @@ public final class Settings {
          */
         public static final String STATUSBAR_BATTERY_BAR_BLEND_COLOR_REVERSE =
                 "statusbar_battery_bar_blend_color_reverse";
+                
+        /**
+          * Dual statusbar mod
+          *
+          * @hide
+          */
+         public static final String USE_DUAL_STATUSBAR_MOD = "use_dual_statusbar_mod";
 
         /**
          * @hide
